@@ -1,0 +1,7 @@
+Redesigning of journal.amityaump.com by Ashirwad verma and Ayush chandra
+
+I Ashirwad verma and my teammate Ayush Chandra have participated in a Website making competition held in Amity University Madhya Pradesh, Gwalior campus the registration was free of cost we have a good experience there and we learned lot of things. There were 3 categories was there out of which we must select only one. So, we selected the Content based category, in this category we have given a website content which we have to redesign for better user experience with creative and innovative ideas. The website which is given to us is : journal.amityaump.com, Our task is to make this website more user friendly with better user experience means our task is to redesign this website. With the help of an open source website maker website, we created a website with the same content of the website journal.amityaump.com which was given to us for redesigning with the help of that website maker website wix.com.
+
+We redesigned that website by making more creative webpages more enhanced visual experience by adding templates and themes to the website. Our main focus was to make the website as formal as possible.
+
+Overall, we learned a lot of things from this competition and we redesigned the website and was evaluated by the hon’ble judges. We want to thank Amity University Madhya Pradesh, Gwalior to give us this opportunity. In the end I want to thank all the volunteers for helping us every time for technical support, the whole event was a great success , Thank you.
